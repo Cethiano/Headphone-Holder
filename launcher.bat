@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "setOutputLaptopSpeakers.ps1"
