@@ -1,7 +1,7 @@
 Headphone Holder with headphone presence detection, pivoting hook, and a quick attachment / detachment system. Automatically switches 
 audio device to laptop speakers when headphone is in holder.
 
-Created to save 2 button presses to switch my audio device to my speaker and to hold my headphones. Used as a sort of introductary project to bluetooth communication using an ESP32.
+Created to save 3 button presses to switch my audio device to my speaker and to hold my headphones. Used as a sort of introductary project to bluetooth communication using an ESP32.
 
 3D Models
 
